@@ -1,0 +1,18 @@
+[04-Jun-2022 21:28:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
+[04-Jun-2022 21:28:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/pansunip/public_html/admin/components/function.php on line 17
+[04-Jun-2022 21:28:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/pansunip/public_html/admin/components/function.php on line 113
+[04-Jun-2022 21:29:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/pansunip/public_html/admin/components/function.php on line 17
+[04-Jun-2022 21:29:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/pansunip/public_html/admin/components/function.php on line 113
+[04-Jun-2022 21:29:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/pansunip/public_html/admin/components/function.php on line 17
+[04-Jun-2022 21:29:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/pansunip/public_html/admin/components/function.php on line 113
+[04-Jun-2022 21:29:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/pansunip/public_html/admin/components/function.php on line 17
+[04-Jun-2022 22:16:05 UTC] PHP Notice:  Undefined index: image_caption in /home2/pansunip/public_html/admin/components/function.php on line 151
+[04-Jun-2022 23:42:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
+[05-Jun-2022 00:20:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
+[06-Jun-2022 07:02:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
+[06-Jun-2022 07:02:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
+[28-Jun-2022 10:07:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
+[28-Jun-2022 10:07:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
+[28-Jun-2022 10:08:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
+[28-Jun-2022 10:08:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
+[01-Jul-2022 23:44:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/pansunip/public_html/admin/login.php on line 29
